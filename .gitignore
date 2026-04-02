@@ -1,0 +1,33 @@
+# Maven / Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# Environment and local overrides
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Python (mock-server)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local runtime artifacts
+/tmp/
+*.pid

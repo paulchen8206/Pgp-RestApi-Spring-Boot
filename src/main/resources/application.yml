@@ -1,0 +1,50 @@
+remote:
+  base-url: https://mock-pgp-api:8443
+  timeout-ms: 15000
+security:
+  tls:
+    key-store-path: /shared/certs/client.p12
+    key-store-password: changeit
+    key-store-type: PKCS12
+    trust-store-path: /shared/certs/truststore.jks
+    trust-store-password: changeit
+    trust-store-type: JKS
+pgp:
+  client-private-key-path: /shared/pgp/client-private.asc
+  client-public-key-path: /shared/pgp/client-public.asc
+  server-public-key-path: /shared/pgp/server-public.asc
+  server-private-key-path: /shared/pgp/server-private.asc
+key-management:
+  provider: localstack-ssm
+  endpoint: http://localstack:4566
+  paths:
+    cert-prefix: /enterprise/pki
+    pgp-prefix: /enterprise/pgp
+logging:
+  level:
+    root: INFO
+    com.example.pgpclient: DEBUG
+spring:
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS:kafka:9092}
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: io.confluent.kafka.serializers.KafkaAvroSerializer
+      properties:
+        schema.registry.url: ${SCHEMA_REGISTRY_URL:http://schema-registry:8081}
+app:
+  kafka:
+    topics:
+      employee-decrypted: employee_decrypted
+      employee-encrypted: emplyee_encrypted
+  streaming:
+    enabled: true
+    master: local[2]
+    app-name: pgp-client-streaming
+    checkpoint-location: /tmp/pgp-client-streaming-checkpoints
+    trigger-interval-seconds: 15
+    rows-per-second: 1
+    employee-ids:
+    - E1001
+    - E1002
+    - E1003

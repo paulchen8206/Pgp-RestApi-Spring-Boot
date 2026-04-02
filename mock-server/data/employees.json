@@ -1,0 +1,2002 @@
+[
+  {
+    "employeeId": "E1001",
+    "firstName": "Priya",
+    "lastName": "Martin",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "priya.martin@enterprise.local",
+    "ssn": "510-91-1599",
+    "salary": 208500
+  },
+  {
+    "employeeId": "E1002",
+    "firstName": "Grace",
+    "lastName": "Miller",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "grace.miller@enterprise.local",
+    "ssn": "505-37-6013",
+    "salary": 120000
+  },
+  {
+    "employeeId": "E1003",
+    "firstName": "Noah",
+    "lastName": "Jackson",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "noah.jackson@enterprise.local",
+    "ssn": "360-80-2388",
+    "salary": 155500
+  },
+  {
+    "employeeId": "E1004",
+    "firstName": "Elena",
+    "lastName": "Gomez",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "elena.gomez@enterprise.local",
+    "ssn": "460-39-1674",
+    "salary": 192500
+  },
+  {
+    "employeeId": "E1005",
+    "firstName": "Olivia",
+    "lastName": "Thompson",
+    "department": "Marketing",
+    "title": "Brand Manager",
+    "email": "olivia.thompson@enterprise.local",
+    "ssn": "561-69-8086",
+    "salary": 169000
+  },
+  {
+    "employeeId": "E1006",
+    "firstName": "Noah",
+    "lastName": "Thomas",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "noah.thomas@enterprise.local",
+    "ssn": "491-13-3942",
+    "salary": 129500
+  },
+  {
+    "employeeId": "E1007",
+    "firstName": "Olivia",
+    "lastName": "Miller",
+    "department": "HR",
+    "title": "HR Coordinator",
+    "email": "olivia.miller@enterprise.local",
+    "ssn": "184-47-9220",
+    "salary": 151500
+  },
+  {
+    "employeeId": "E1008",
+    "firstName": "Quinn",
+    "lastName": "Garcia",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "quinn.garcia@enterprise.local",
+    "ssn": "333-22-2942",
+    "salary": 130500
+  },
+  {
+    "employeeId": "E1009",
+    "firstName": "Carla",
+    "lastName": "Thomas",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "carla.thomas@enterprise.local",
+    "ssn": "301-96-6394",
+    "salary": 145000
+  },
+  {
+    "employeeId": "E1010",
+    "firstName": "Iris",
+    "lastName": "Wilson",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "iris.wilson@enterprise.local",
+    "ssn": "822-87-3258",
+    "salary": 108500
+  },
+  {
+    "employeeId": "E1011",
+    "firstName": "Rafael",
+    "lastName": "Lopez",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "rafael.lopez@enterprise.local",
+    "ssn": "942-54-7616",
+    "salary": 132000
+  },
+  {
+    "employeeId": "E1012",
+    "firstName": "Mina",
+    "lastName": "Martinez",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "mina.martinez@enterprise.local",
+    "ssn": "769-75-3445",
+    "salary": 180500
+  },
+  {
+    "employeeId": "E1013",
+    "firstName": "Mina",
+    "lastName": "Miller",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "email": "mina.miller@enterprise.local",
+    "ssn": "339-76-8679",
+    "salary": 181000
+  },
+  {
+    "employeeId": "E1014",
+    "firstName": "Olivia",
+    "lastName": "Anderson",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "olivia.anderson@enterprise.local",
+    "ssn": "539-99-7843",
+    "salary": 108000
+  },
+  {
+    "employeeId": "E1015",
+    "firstName": "Grace",
+    "lastName": "Harris",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "grace.harris@enterprise.local",
+    "ssn": "242-83-3102",
+    "salary": 155500
+  },
+  {
+    "employeeId": "E1016",
+    "firstName": "Jamal",
+    "lastName": "Nguyen",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "jamal.nguyen@enterprise.local",
+    "ssn": "330-63-7974",
+    "salary": 146500
+  },
+  {
+    "employeeId": "E1017",
+    "firstName": "Mina",
+    "lastName": "Garcia",
+    "department": "HR",
+    "title": "Recruiter",
+    "email": "mina.garcia@enterprise.local",
+    "ssn": "123-82-1527",
+    "salary": 210000
+  },
+  {
+    "employeeId": "E1018",
+    "firstName": "Elena",
+    "lastName": "Johnson",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "elena.johnson@enterprise.local",
+    "ssn": "309-60-2043",
+    "salary": 157500
+  },
+  {
+    "employeeId": "E1019",
+    "firstName": "Rafael",
+    "lastName": "Jackson",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "rafael.jackson@enterprise.local",
+    "ssn": "436-82-8397",
+    "salary": 87500
+  },
+  {
+    "employeeId": "E1020",
+    "firstName": "Jamal",
+    "lastName": "Gomez",
+    "department": "Finance",
+    "title": "Financial Analyst",
+    "email": "jamal.gomez@enterprise.local",
+    "ssn": "281-14-9005",
+    "salary": 201500
+  },
+  {
+    "employeeId": "E1021",
+    "firstName": "Alice",
+    "lastName": "Brown",
+    "department": "Finance",
+    "title": "Financial Analyst",
+    "email": "alice.brown@enterprise.local",
+    "ssn": "390-36-4818",
+    "salary": 158500
+  },
+  {
+    "employeeId": "E1022",
+    "firstName": "Jamal",
+    "lastName": "Thompson",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "jamal.thompson@enterprise.local",
+    "ssn": "477-76-1180",
+    "salary": 74500
+  },
+  {
+    "employeeId": "E1023",
+    "firstName": "Farid",
+    "lastName": "Anderson",
+    "department": "Sales",
+    "title": "Regional Director",
+    "email": "farid.anderson@enterprise.local",
+    "ssn": "213-26-9789",
+    "salary": 100000
+  },
+  {
+    "employeeId": "E1024",
+    "firstName": "Noah",
+    "lastName": "Martin",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "noah.martin@enterprise.local",
+    "ssn": "986-36-3128",
+    "salary": 159500
+  },
+  {
+    "employeeId": "E1025",
+    "firstName": "Grace",
+    "lastName": "Wilson",
+    "department": "Sales",
+    "title": "Regional Director",
+    "email": "grace.wilson@enterprise.local",
+    "ssn": "718-83-6084",
+    "salary": 100500
+  },
+  {
+    "employeeId": "E1026",
+    "firstName": "Sara",
+    "lastName": "Davis",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "sara.davis@enterprise.local",
+    "ssn": "306-10-3337",
+    "salary": 130500
+  },
+  {
+    "employeeId": "E1027",
+    "firstName": "Olivia",
+    "lastName": "Gomez",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "olivia.gomez@enterprise.local",
+    "ssn": "436-82-9043",
+    "salary": 194500
+  },
+  {
+    "employeeId": "E1028",
+    "firstName": "Olivia",
+    "lastName": "Harris",
+    "department": "Marketing",
+    "title": "Marketing Specialist",
+    "email": "olivia.harris@enterprise.local",
+    "ssn": "394-92-8476",
+    "salary": 83000
+  },
+  {
+    "employeeId": "E1029",
+    "firstName": "Liam",
+    "lastName": "Wilson",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "liam.wilson@enterprise.local",
+    "ssn": "355-32-8079",
+    "salary": 166000
+  },
+  {
+    "employeeId": "E1030",
+    "firstName": "Olivia",
+    "lastName": "Jackson",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "olivia.jackson@enterprise.local",
+    "ssn": "197-60-1715",
+    "salary": 205500
+  },
+  {
+    "employeeId": "E1031",
+    "firstName": "Hector",
+    "lastName": "Brown",
+    "department": "HR",
+    "title": "Recruiter",
+    "email": "hector.brown@enterprise.local",
+    "ssn": "814-37-9085",
+    "salary": 77000
+  },
+  {
+    "employeeId": "E1032",
+    "firstName": "Noah",
+    "lastName": "Garcia",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "noah.garcia@enterprise.local",
+    "ssn": "873-23-9264",
+    "salary": 79500
+  },
+  {
+    "employeeId": "E1033",
+    "firstName": "Kira",
+    "lastName": "White",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "kira.white@enterprise.local",
+    "ssn": "312-74-1731",
+    "salary": 124500
+  },
+  {
+    "employeeId": "E1034",
+    "firstName": "Olivia",
+    "lastName": "Nguyen",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "olivia.nguyen@enterprise.local",
+    "ssn": "451-61-4185",
+    "salary": 157500
+  },
+  {
+    "employeeId": "E1035",
+    "firstName": "Mina",
+    "lastName": "Patel",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "mina.patel@enterprise.local",
+    "ssn": "826-27-6359",
+    "salary": 89000
+  },
+  {
+    "employeeId": "E1036",
+    "firstName": "Olivia",
+    "lastName": "Martin",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "olivia.martin@enterprise.local",
+    "ssn": "661-94-4969",
+    "salary": 81000
+  },
+  {
+    "employeeId": "E1037",
+    "firstName": "Olivia",
+    "lastName": "Johnson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "olivia.johnson@enterprise.local",
+    "ssn": "274-12-2646",
+    "salary": 101000
+  },
+  {
+    "employeeId": "E1038",
+    "firstName": "Farid",
+    "lastName": "Wilson",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "farid.wilson@enterprise.local",
+    "ssn": "179-95-1183",
+    "salary": 103000
+  },
+  {
+    "employeeId": "E1039",
+    "firstName": "Iris",
+    "lastName": "Johnson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "iris.johnson@enterprise.local",
+    "ssn": "321-14-9721",
+    "salary": 105500
+  },
+  {
+    "employeeId": "E1040",
+    "firstName": "Grace",
+    "lastName": "Harris",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "grace.harris2@enterprise.local",
+    "ssn": "756-94-2684",
+    "salary": 193500
+  },
+  {
+    "employeeId": "E1041",
+    "firstName": "Mina",
+    "lastName": "Wilson",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "mina.wilson@enterprise.local",
+    "ssn": "104-16-7183",
+    "salary": 213000
+  },
+  {
+    "employeeId": "E1042",
+    "firstName": "Grace",
+    "lastName": "Miller",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "grace.miller2@enterprise.local",
+    "ssn": "193-12-7908",
+    "salary": 111000
+  },
+  {
+    "employeeId": "E1043",
+    "firstName": "Alice",
+    "lastName": "Nguyen",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "alice.nguyen@enterprise.local",
+    "ssn": "325-22-3750",
+    "salary": 76000
+  },
+  {
+    "employeeId": "E1044",
+    "firstName": "Farid",
+    "lastName": "Patel",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "farid.patel@enterprise.local",
+    "ssn": "430-81-4105",
+    "salary": 143500
+  },
+  {
+    "employeeId": "E1045",
+    "firstName": "Tariq",
+    "lastName": "Davis",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "tariq.davis@enterprise.local",
+    "ssn": "223-39-4502",
+    "salary": 169500
+  },
+  {
+    "employeeId": "E1046",
+    "firstName": "David",
+    "lastName": "Thomas",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "david.thomas@enterprise.local",
+    "ssn": "511-93-6181",
+    "salary": 63500
+  },
+  {
+    "employeeId": "E1047",
+    "firstName": "Alice",
+    "lastName": "Jackson",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "alice.jackson@enterprise.local",
+    "ssn": "167-94-5562",
+    "salary": 116000
+  },
+  {
+    "employeeId": "E1048",
+    "firstName": "Tariq",
+    "lastName": "Thomas",
+    "department": "Engineering",
+    "title": "Software Engineer",
+    "email": "tariq.thomas@enterprise.local",
+    "ssn": "520-48-9185",
+    "salary": 115500
+  },
+  {
+    "employeeId": "E1049",
+    "firstName": "David",
+    "lastName": "Garcia",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "david.garcia@enterprise.local",
+    "ssn": "197-86-6314",
+    "salary": 124000
+  },
+  {
+    "employeeId": "E1050",
+    "firstName": "Mina",
+    "lastName": "Johnson",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "mina.johnson@enterprise.local",
+    "ssn": "971-95-8899",
+    "salary": 141000
+  },
+  {
+    "employeeId": "E1051",
+    "firstName": "Carla",
+    "lastName": "Anderson",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "carla.anderson@enterprise.local",
+    "ssn": "623-91-4808",
+    "salary": 157500
+  },
+  {
+    "employeeId": "E1052",
+    "firstName": "Quinn",
+    "lastName": "Martinez",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "quinn.martinez@enterprise.local",
+    "ssn": "121-88-3032",
+    "salary": 119500
+  },
+  {
+    "employeeId": "E1053",
+    "firstName": "Jamal",
+    "lastName": "Miller",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "jamal.miller@enterprise.local",
+    "ssn": "734-20-1981",
+    "salary": 122000
+  },
+  {
+    "employeeId": "E1054",
+    "firstName": "Elena",
+    "lastName": "Thomas",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "elena.thomas@enterprise.local",
+    "ssn": "255-58-4348",
+    "salary": 111500
+  },
+  {
+    "employeeId": "E1055",
+    "firstName": "Brian",
+    "lastName": "Miller",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "brian.miller@enterprise.local",
+    "ssn": "237-45-6202",
+    "salary": 144000
+  },
+  {
+    "employeeId": "E1056",
+    "firstName": "Brian",
+    "lastName": "Thompson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "brian.thompson@enterprise.local",
+    "ssn": "334-52-6615",
+    "salary": 66000
+  },
+  {
+    "employeeId": "E1057",
+    "firstName": "Hector",
+    "lastName": "Davis",
+    "department": "Marketing",
+    "title": "Marketing Specialist",
+    "email": "hector.davis@enterprise.local",
+    "ssn": "920-97-4644",
+    "salary": 123500
+  },
+  {
+    "employeeId": "E1058",
+    "firstName": "Tariq",
+    "lastName": "Jackson",
+    "department": "Marketing",
+    "title": "Brand Manager",
+    "email": "tariq.jackson@enterprise.local",
+    "ssn": "552-90-1099",
+    "salary": 106500
+  },
+  {
+    "employeeId": "E1059",
+    "firstName": "Carla",
+    "lastName": "Martin",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "carla.martin@enterprise.local",
+    "ssn": "749-28-4345",
+    "salary": 73000
+  },
+  {
+    "employeeId": "E1060",
+    "firstName": "Elena",
+    "lastName": "Gomez",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "email": "elena.gomez2@enterprise.local",
+    "ssn": "619-20-7983",
+    "salary": 120000
+  },
+  {
+    "employeeId": "E1061",
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "email": "olivia.wilson@enterprise.local",
+    "ssn": "534-32-5079",
+    "salary": 122500
+  },
+  {
+    "employeeId": "E1062",
+    "firstName": "Jamal",
+    "lastName": "Wilson",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "jamal.wilson@enterprise.local",
+    "ssn": "378-71-2310",
+    "salary": 111500
+  },
+  {
+    "employeeId": "E1063",
+    "firstName": "Liam",
+    "lastName": "Jackson",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "liam.jackson@enterprise.local",
+    "ssn": "551-64-9278",
+    "salary": 180500
+  },
+  {
+    "employeeId": "E1064",
+    "firstName": "Tariq",
+    "lastName": "White",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "tariq.white@enterprise.local",
+    "ssn": "880-58-8002",
+    "salary": 65000
+  },
+  {
+    "employeeId": "E1065",
+    "firstName": "Carla",
+    "lastName": "Wilson",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "carla.wilson@enterprise.local",
+    "ssn": "844-32-5215",
+    "salary": 201500
+  },
+  {
+    "employeeId": "E1066",
+    "firstName": "Mina",
+    "lastName": "Harris",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "mina.harris@enterprise.local",
+    "ssn": "484-81-8878",
+    "salary": 132500
+  },
+  {
+    "employeeId": "E1067",
+    "firstName": "Carla",
+    "lastName": "Anderson",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "carla.anderson2@enterprise.local",
+    "ssn": "258-34-1068",
+    "salary": 110000
+  },
+  {
+    "employeeId": "E1068",
+    "firstName": "Alice",
+    "lastName": "Thompson",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "alice.thompson@enterprise.local",
+    "ssn": "514-63-7465",
+    "salary": 185500
+  },
+  {
+    "employeeId": "E1069",
+    "firstName": "Liam",
+    "lastName": "Jackson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "liam.jackson2@enterprise.local",
+    "ssn": "172-62-1636",
+    "salary": 210500
+  },
+  {
+    "employeeId": "E1070",
+    "firstName": "David",
+    "lastName": "Jackson",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "david.jackson@enterprise.local",
+    "ssn": "881-65-5182",
+    "salary": 109500
+  },
+  {
+    "employeeId": "E1071",
+    "firstName": "Liam",
+    "lastName": "Thompson",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "liam.thompson@enterprise.local",
+    "ssn": "813-17-7313",
+    "salary": 154000
+  },
+  {
+    "employeeId": "E1072",
+    "firstName": "Noah",
+    "lastName": "Miller",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "noah.miller@enterprise.local",
+    "ssn": "932-56-1462",
+    "salary": 68500
+  },
+  {
+    "employeeId": "E1073",
+    "firstName": "Elena",
+    "lastName": "Lopez",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "elena.lopez@enterprise.local",
+    "ssn": "360-41-3644",
+    "salary": 97500
+  },
+  {
+    "employeeId": "E1074",
+    "firstName": "Alice",
+    "lastName": "Kim",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "alice.kim@enterprise.local",
+    "ssn": "823-85-2316",
+    "salary": 161500
+  },
+  {
+    "employeeId": "E1075",
+    "firstName": "Quinn",
+    "lastName": "Davis",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "quinn.davis@enterprise.local",
+    "ssn": "358-98-5951",
+    "salary": 169000
+  },
+  {
+    "employeeId": "E1076",
+    "firstName": "Quinn",
+    "lastName": "Garcia",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "quinn.garcia2@enterprise.local",
+    "ssn": "415-62-2456",
+    "salary": 210000
+  },
+  {
+    "employeeId": "E1077",
+    "firstName": "David",
+    "lastName": "Martinez",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "david.martinez@enterprise.local",
+    "ssn": "866-36-7520",
+    "salary": 128500
+  },
+  {
+    "employeeId": "E1078",
+    "firstName": "Jamal",
+    "lastName": "Nguyen",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "jamal.nguyen2@enterprise.local",
+    "ssn": "199-18-7845",
+    "salary": 60000
+  },
+  {
+    "employeeId": "E1079",
+    "firstName": "Quinn",
+    "lastName": "White",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "quinn.white@enterprise.local",
+    "ssn": "274-32-7138",
+    "salary": 170000
+  },
+  {
+    "employeeId": "E1080",
+    "firstName": "Farid",
+    "lastName": "Johnson",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "farid.johnson@enterprise.local",
+    "ssn": "614-24-8383",
+    "salary": 106500
+  },
+  {
+    "employeeId": "E1081",
+    "firstName": "Sara",
+    "lastName": "Davis",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "email": "sara.davis2@enterprise.local",
+    "ssn": "867-33-4143",
+    "salary": 75000
+  },
+  {
+    "employeeId": "E1082",
+    "firstName": "Iris",
+    "lastName": "White",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "iris.white@enterprise.local",
+    "ssn": "181-47-2404",
+    "salary": 102500
+  },
+  {
+    "employeeId": "E1083",
+    "firstName": "Mina",
+    "lastName": "Kim",
+    "department": "HR",
+    "title": "HR Coordinator",
+    "email": "mina.kim@enterprise.local",
+    "ssn": "130-84-4846",
+    "salary": 147500
+  },
+  {
+    "employeeId": "E1084",
+    "firstName": "Priya",
+    "lastName": "Martin",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "priya.martin2@enterprise.local",
+    "ssn": "162-44-1118",
+    "salary": 62000
+  },
+  {
+    "employeeId": "E1085",
+    "firstName": "Sara",
+    "lastName": "Patel",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "sara.patel@enterprise.local",
+    "ssn": "910-10-7154",
+    "salary": 193500
+  },
+  {
+    "employeeId": "E1086",
+    "firstName": "Tariq",
+    "lastName": "Thompson",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "tariq.thompson@enterprise.local",
+    "ssn": "875-53-8036",
+    "salary": 181000
+  },
+  {
+    "employeeId": "E1087",
+    "firstName": "Kira",
+    "lastName": "Thomas",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "kira.thomas@enterprise.local",
+    "ssn": "936-40-6918",
+    "salary": 140500
+  },
+  {
+    "employeeId": "E1088",
+    "firstName": "Mina",
+    "lastName": "Jackson",
+    "department": "Marketing",
+    "title": "Marketing Specialist",
+    "email": "mina.jackson@enterprise.local",
+    "ssn": "994-52-2641",
+    "salary": 151000
+  },
+  {
+    "employeeId": "E1089",
+    "firstName": "Alice",
+    "lastName": "Harris",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "alice.harris@enterprise.local",
+    "ssn": "126-87-3013",
+    "salary": 95500
+  },
+  {
+    "employeeId": "E1090",
+    "firstName": "Quinn",
+    "lastName": "Lopez",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "quinn.lopez@enterprise.local",
+    "ssn": "562-89-8785",
+    "salary": 154000
+  },
+  {
+    "employeeId": "E1091",
+    "firstName": "Quinn",
+    "lastName": "White",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "quinn.white2@enterprise.local",
+    "ssn": "753-51-1272",
+    "salary": 60500
+  },
+  {
+    "employeeId": "E1092",
+    "firstName": "Liam",
+    "lastName": "Patel",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "liam.patel@enterprise.local",
+    "ssn": "339-87-8938",
+    "salary": 173500
+  },
+  {
+    "employeeId": "E1093",
+    "firstName": "Mina",
+    "lastName": "Lee",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "mina.lee@enterprise.local",
+    "ssn": "587-94-2645",
+    "salary": 169500
+  },
+  {
+    "employeeId": "E1094",
+    "firstName": "Mina",
+    "lastName": "Wilson",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "mina.wilson2@enterprise.local",
+    "ssn": "990-76-9267",
+    "salary": 96500
+  },
+  {
+    "employeeId": "E1095",
+    "firstName": "Brian",
+    "lastName": "Johnson",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "brian.johnson@enterprise.local",
+    "ssn": "952-96-9990",
+    "salary": 137000
+  },
+  {
+    "employeeId": "E1096",
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "olivia.brown@enterprise.local",
+    "ssn": "778-79-4946",
+    "salary": 183000
+  },
+  {
+    "employeeId": "E1097",
+    "firstName": "Hector",
+    "lastName": "Davis",
+    "department": "Finance",
+    "title": "Financial Analyst",
+    "email": "hector.davis2@enterprise.local",
+    "ssn": "545-13-3625",
+    "salary": 87000
+  },
+  {
+    "employeeId": "E1098",
+    "firstName": "Kira",
+    "lastName": "Jackson",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "kira.jackson@enterprise.local",
+    "ssn": "781-70-3016",
+    "salary": 125500
+  },
+  {
+    "employeeId": "E1099",
+    "firstName": "Elena",
+    "lastName": "Garcia",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "elena.garcia@enterprise.local",
+    "ssn": "914-98-6452",
+    "salary": 83000
+  },
+  {
+    "employeeId": "E1100",
+    "firstName": "Hector",
+    "lastName": "Martinez",
+    "department": "Marketing",
+    "title": "Marketing Specialist",
+    "email": "hector.martinez@enterprise.local",
+    "ssn": "486-58-8159",
+    "salary": 147500
+  },
+  {
+    "employeeId": "E1101",
+    "firstName": "Hector",
+    "lastName": "Miller",
+    "department": "HR",
+    "title": "HR Coordinator",
+    "email": "hector.miller@enterprise.local",
+    "ssn": "189-24-2460",
+    "salary": 134000
+  },
+  {
+    "employeeId": "E1102",
+    "firstName": "Kira",
+    "lastName": "Martinez",
+    "department": "Finance",
+    "title": "Financial Analyst",
+    "email": "kira.martinez@enterprise.local",
+    "ssn": "476-26-6134",
+    "salary": 206500
+  },
+  {
+    "employeeId": "E1103",
+    "firstName": "Mina",
+    "lastName": "Martinez",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "mina.martinez2@enterprise.local",
+    "ssn": "163-85-9775",
+    "salary": 139500
+  },
+  {
+    "employeeId": "E1104",
+    "firstName": "Grace",
+    "lastName": "Jackson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "grace.jackson@enterprise.local",
+    "ssn": "916-96-3069",
+    "salary": 153000
+  },
+  {
+    "employeeId": "E1105",
+    "firstName": "Quinn",
+    "lastName": "Lee",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "quinn.lee@enterprise.local",
+    "ssn": "504-11-9819",
+    "salary": 87000
+  },
+  {
+    "employeeId": "E1106",
+    "firstName": "Olivia",
+    "lastName": "Anderson",
+    "department": "Finance",
+    "title": "Senior Accountant",
+    "email": "olivia.anderson2@enterprise.local",
+    "ssn": "611-97-8467",
+    "salary": 116000
+  },
+  {
+    "employeeId": "E1107",
+    "firstName": "Elena",
+    "lastName": "Lee",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "elena.lee@enterprise.local",
+    "ssn": "713-50-6060",
+    "salary": 68500
+  },
+  {
+    "employeeId": "E1108",
+    "firstName": "Quinn",
+    "lastName": "Kim",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "quinn.kim@enterprise.local",
+    "ssn": "606-47-7171",
+    "salary": 115000
+  },
+  {
+    "employeeId": "E1109",
+    "firstName": "Brian",
+    "lastName": "Anderson",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "email": "brian.anderson@enterprise.local",
+    "ssn": "817-16-3933",
+    "salary": 117500
+  },
+  {
+    "employeeId": "E1110",
+    "firstName": "Priya",
+    "lastName": "Jackson",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "priya.jackson@enterprise.local",
+    "ssn": "661-60-6528",
+    "salary": 65500
+  },
+  {
+    "employeeId": "E1111",
+    "firstName": "Noah",
+    "lastName": "Martin",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "noah.martin2@enterprise.local",
+    "ssn": "173-77-5637",
+    "salary": 160000
+  },
+  {
+    "employeeId": "E1112",
+    "firstName": "Jamal",
+    "lastName": "Davis",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "jamal.davis@enterprise.local",
+    "ssn": "234-51-1886",
+    "salary": 84500
+  },
+  {
+    "employeeId": "E1113",
+    "firstName": "Jamal",
+    "lastName": "Harris",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "jamal.harris@enterprise.local",
+    "ssn": "240-66-8904",
+    "salary": 207500
+  },
+  {
+    "employeeId": "E1114",
+    "firstName": "Jamal",
+    "lastName": "Johnson",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "email": "jamal.johnson@enterprise.local",
+    "ssn": "852-93-1149",
+    "salary": 110000
+  },
+  {
+    "employeeId": "E1115",
+    "firstName": "Liam",
+    "lastName": "Martinez",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "liam.martinez@enterprise.local",
+    "ssn": "537-96-3756",
+    "salary": 156000
+  },
+  {
+    "employeeId": "E1116",
+    "firstName": "Brian",
+    "lastName": "Kim",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "brian.kim@enterprise.local",
+    "ssn": "153-25-9444",
+    "salary": 105500
+  },
+  {
+    "employeeId": "E1117",
+    "firstName": "Kira",
+    "lastName": "Martinez",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "kira.martinez2@enterprise.local",
+    "ssn": "350-14-2946",
+    "salary": 163000
+  },
+  {
+    "employeeId": "E1118",
+    "firstName": "Hector",
+    "lastName": "Jackson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "hector.jackson@enterprise.local",
+    "ssn": "276-93-7150",
+    "salary": 212500
+  },
+  {
+    "employeeId": "E1119",
+    "firstName": "Carla",
+    "lastName": "Harris",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "carla.harris@enterprise.local",
+    "ssn": "747-93-8292",
+    "salary": 130000
+  },
+  {
+    "employeeId": "E1120",
+    "firstName": "Liam",
+    "lastName": "Nguyen",
+    "department": "Engineering",
+    "title": "Software Engineer",
+    "email": "liam.nguyen@enterprise.local",
+    "ssn": "224-72-9351",
+    "salary": 81000
+  },
+  {
+    "employeeId": "E1121",
+    "firstName": "Hector",
+    "lastName": "Nguyen",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "hector.nguyen@enterprise.local",
+    "ssn": "810-22-3967",
+    "salary": 130000
+  },
+  {
+    "employeeId": "E1122",
+    "firstName": "Mina",
+    "lastName": "Martin",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "mina.martin@enterprise.local",
+    "ssn": "685-26-2629",
+    "salary": 136000
+  },
+  {
+    "employeeId": "E1123",
+    "firstName": "Kira",
+    "lastName": "Gomez",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "kira.gomez@enterprise.local",
+    "ssn": "932-99-1323",
+    "salary": 163500
+  },
+  {
+    "employeeId": "E1124",
+    "firstName": "Mina",
+    "lastName": "Garcia",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "mina.garcia2@enterprise.local",
+    "ssn": "631-84-9830",
+    "salary": 76000
+  },
+  {
+    "employeeId": "E1125",
+    "firstName": "David",
+    "lastName": "Davis",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "david.davis@enterprise.local",
+    "ssn": "982-86-3948",
+    "salary": 106000
+  },
+  {
+    "employeeId": "E1126",
+    "firstName": "Alice",
+    "lastName": "Garcia",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "alice.garcia@enterprise.local",
+    "ssn": "140-26-4378",
+    "salary": 91000
+  },
+  {
+    "employeeId": "E1127",
+    "firstName": "Farid",
+    "lastName": "Gomez",
+    "department": "Marketing",
+    "title": "Brand Manager",
+    "email": "farid.gomez@enterprise.local",
+    "ssn": "186-25-9292",
+    "salary": 68500
+  },
+  {
+    "employeeId": "E1128",
+    "firstName": "Jamal",
+    "lastName": "Thomas",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "jamal.thomas@enterprise.local",
+    "ssn": "773-10-5068",
+    "salary": 168000
+  },
+  {
+    "employeeId": "E1129",
+    "firstName": "Jamal",
+    "lastName": "Patel",
+    "department": "Marketing",
+    "title": "Brand Manager",
+    "email": "jamal.patel@enterprise.local",
+    "ssn": "555-27-9035",
+    "salary": 196500
+  },
+  {
+    "employeeId": "E1130",
+    "firstName": "Kira",
+    "lastName": "Thompson",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "kira.thompson@enterprise.local",
+    "ssn": "778-15-4884",
+    "salary": 85000
+  },
+  {
+    "employeeId": "E1131",
+    "firstName": "Brian",
+    "lastName": "Davis",
+    "department": "Finance",
+    "title": "Senior Accountant",
+    "email": "brian.davis@enterprise.local",
+    "ssn": "237-87-4539",
+    "salary": 115000
+  },
+  {
+    "employeeId": "E1132",
+    "firstName": "Sara",
+    "lastName": "Thomas",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "sara.thomas@enterprise.local",
+    "ssn": "532-19-5177",
+    "salary": 219000
+  },
+  {
+    "employeeId": "E1133",
+    "firstName": "Iris",
+    "lastName": "Jackson",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "iris.jackson@enterprise.local",
+    "ssn": "567-20-5164",
+    "salary": 162000
+  },
+  {
+    "employeeId": "E1134",
+    "firstName": "Noah",
+    "lastName": "Johnson",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "noah.johnson@enterprise.local",
+    "ssn": "744-44-4156",
+    "salary": 78000
+  },
+  {
+    "employeeId": "E1135",
+    "firstName": "Liam",
+    "lastName": "Martinez",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "liam.martinez2@enterprise.local",
+    "ssn": "941-29-6183",
+    "salary": 167000
+  },
+  {
+    "employeeId": "E1136",
+    "firstName": "Noah",
+    "lastName": "Jackson",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "noah.jackson2@enterprise.local",
+    "ssn": "376-25-9707",
+    "salary": 79500
+  },
+  {
+    "employeeId": "E1137",
+    "firstName": "David",
+    "lastName": "Garcia",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "david.garcia2@enterprise.local",
+    "ssn": "755-21-6944",
+    "salary": 144000
+  },
+  {
+    "employeeId": "E1138",
+    "firstName": "Kira",
+    "lastName": "Lopez",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "email": "kira.lopez@enterprise.local",
+    "ssn": "110-22-7179",
+    "salary": 130000
+  },
+  {
+    "employeeId": "E1139",
+    "firstName": "Hector",
+    "lastName": "Jackson",
+    "department": "Engineering",
+    "title": "Software Engineer",
+    "email": "hector.jackson2@enterprise.local",
+    "ssn": "639-49-9021",
+    "salary": 104500
+  },
+  {
+    "employeeId": "E1140",
+    "firstName": "David",
+    "lastName": "Thompson",
+    "department": "HR",
+    "title": "Recruiter",
+    "email": "david.thompson@enterprise.local",
+    "ssn": "377-87-2623",
+    "salary": 201000
+  },
+  {
+    "employeeId": "E1141",
+    "firstName": "Brian",
+    "lastName": "Brown",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "brian.brown@enterprise.local",
+    "ssn": "453-96-9711",
+    "salary": 106000
+  },
+  {
+    "employeeId": "E1142",
+    "firstName": "Rafael",
+    "lastName": "Lee",
+    "department": "Sales",
+    "title": "Regional Director",
+    "email": "rafael.lee@enterprise.local",
+    "ssn": "230-43-1155",
+    "salary": 211500
+  },
+  {
+    "employeeId": "E1143",
+    "firstName": "Quinn",
+    "lastName": "Johnson",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "quinn.johnson@enterprise.local",
+    "ssn": "487-82-5380",
+    "salary": 96500
+  },
+  {
+    "employeeId": "E1144",
+    "firstName": "Brian",
+    "lastName": "Thomas",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "brian.thomas@enterprise.local",
+    "ssn": "528-68-3999",
+    "salary": 215500
+  },
+  {
+    "employeeId": "E1145",
+    "firstName": "Olivia",
+    "lastName": "Thomas",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "olivia.thomas@enterprise.local",
+    "ssn": "538-76-4748",
+    "salary": 130500
+  },
+  {
+    "employeeId": "E1146",
+    "firstName": "Jamal",
+    "lastName": "Gomez",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "jamal.gomez2@enterprise.local",
+    "ssn": "965-21-2302",
+    "salary": 140000
+  },
+  {
+    "employeeId": "E1147",
+    "firstName": "Carla",
+    "lastName": "Miller",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "carla.miller@enterprise.local",
+    "ssn": "158-20-5683",
+    "salary": 207000
+  },
+  {
+    "employeeId": "E1148",
+    "firstName": "Rafael",
+    "lastName": "Martin",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "rafael.martin@enterprise.local",
+    "ssn": "848-27-8858",
+    "salary": 190000
+  },
+  {
+    "employeeId": "E1149",
+    "firstName": "Priya",
+    "lastName": "Thompson",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "priya.thompson@enterprise.local",
+    "ssn": "114-88-4115",
+    "salary": 163500
+  },
+  {
+    "employeeId": "E1150",
+    "firstName": "Alice",
+    "lastName": "White",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "alice.white@enterprise.local",
+    "ssn": "856-94-9652",
+    "salary": 122500
+  },
+  {
+    "employeeId": "E1151",
+    "firstName": "Tariq",
+    "lastName": "Patel",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "tariq.patel@enterprise.local",
+    "ssn": "790-77-4687",
+    "salary": 103000
+  },
+  {
+    "employeeId": "E1152",
+    "firstName": "Farid",
+    "lastName": "Gomez",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "farid.gomez2@enterprise.local",
+    "ssn": "461-16-7925",
+    "salary": 191500
+  },
+  {
+    "employeeId": "E1153",
+    "firstName": "Priya",
+    "lastName": "Jackson",
+    "department": "Finance",
+    "title": "Senior Accountant",
+    "email": "priya.jackson2@enterprise.local",
+    "ssn": "446-96-5092",
+    "salary": 88500
+  },
+  {
+    "employeeId": "E1154",
+    "firstName": "Rafael",
+    "lastName": "Kim",
+    "department": "HR",
+    "title": "Recruiter",
+    "email": "rafael.kim@enterprise.local",
+    "ssn": "400-43-4490",
+    "salary": 183500
+  },
+  {
+    "employeeId": "E1155",
+    "firstName": "Alice",
+    "lastName": "Martinez",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "alice.martinez@enterprise.local",
+    "ssn": "758-75-1580",
+    "salary": 138000
+  },
+  {
+    "employeeId": "E1156",
+    "firstName": "Olivia",
+    "lastName": "Lee",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "olivia.lee@enterprise.local",
+    "ssn": "106-88-8542",
+    "salary": 151000
+  },
+  {
+    "employeeId": "E1157",
+    "firstName": "Kira",
+    "lastName": "Wilson",
+    "department": "HR",
+    "title": "HR Coordinator",
+    "email": "kira.wilson@enterprise.local",
+    "ssn": "458-33-7587",
+    "salary": 61000
+  },
+  {
+    "employeeId": "E1158",
+    "firstName": "Liam",
+    "lastName": "Nguyen",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "liam.nguyen2@enterprise.local",
+    "ssn": "302-20-9668",
+    "salary": 185500
+  },
+  {
+    "employeeId": "E1159",
+    "firstName": "Quinn",
+    "lastName": "Johnson",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "quinn.johnson2@enterprise.local",
+    "ssn": "107-29-5098",
+    "salary": 184500
+  },
+  {
+    "employeeId": "E1160",
+    "firstName": "Hector",
+    "lastName": "Martin",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "hector.martin@enterprise.local",
+    "ssn": "473-64-3984",
+    "salary": 136500
+  },
+  {
+    "employeeId": "E1161",
+    "firstName": "Rafael",
+    "lastName": "Lopez",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "rafael.lopez2@enterprise.local",
+    "ssn": "265-27-6795",
+    "salary": 172000
+  },
+  {
+    "employeeId": "E1162",
+    "firstName": "Noah",
+    "lastName": "Nguyen",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "noah.nguyen@enterprise.local",
+    "ssn": "294-46-1659",
+    "salary": 88000
+  },
+  {
+    "employeeId": "E1163",
+    "firstName": "Elena",
+    "lastName": "Jackson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "elena.jackson@enterprise.local",
+    "ssn": "264-95-4260",
+    "salary": 68000
+  },
+  {
+    "employeeId": "E1164",
+    "firstName": "Priya",
+    "lastName": "Lopez",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "priya.lopez@enterprise.local",
+    "ssn": "663-73-3087",
+    "salary": 185000
+  },
+  {
+    "employeeId": "E1165",
+    "firstName": "Kira",
+    "lastName": "Jackson",
+    "department": "Marketing",
+    "title": "Growth Marketing Manager",
+    "email": "kira.jackson2@enterprise.local",
+    "ssn": "212-23-1346",
+    "salary": 93500
+  },
+  {
+    "employeeId": "E1166",
+    "firstName": "Elena",
+    "lastName": "Johnson",
+    "department": "HR",
+    "title": "HR Coordinator",
+    "email": "elena.johnson2@enterprise.local",
+    "ssn": "153-96-6605",
+    "salary": 120500
+  },
+  {
+    "employeeId": "E1167",
+    "firstName": "Noah",
+    "lastName": "Lee",
+    "department": "Operations",
+    "title": "Operations Analyst",
+    "email": "noah.lee@enterprise.local",
+    "ssn": "591-47-5623",
+    "salary": 171000
+  },
+  {
+    "employeeId": "E1168",
+    "firstName": "Priya",
+    "lastName": "Gomez",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "priya.gomez@enterprise.local",
+    "ssn": "256-75-4061",
+    "salary": 218000
+  },
+  {
+    "employeeId": "E1169",
+    "firstName": "Hector",
+    "lastName": "Lopez",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "hector.lopez@enterprise.local",
+    "ssn": "782-64-4250",
+    "salary": 123000
+  },
+  {
+    "employeeId": "E1170",
+    "firstName": "Priya",
+    "lastName": "Kim",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "priya.kim@enterprise.local",
+    "ssn": "975-85-3436",
+    "salary": 108000
+  },
+  {
+    "employeeId": "E1171",
+    "firstName": "Hector",
+    "lastName": "Kim",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "hector.kim@enterprise.local",
+    "ssn": "380-34-3395",
+    "salary": 69500
+  },
+  {
+    "employeeId": "E1172",
+    "firstName": "Noah",
+    "lastName": "Nguyen",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "noah.nguyen2@enterprise.local",
+    "ssn": "985-16-7231",
+    "salary": 83000
+  },
+  {
+    "employeeId": "E1173",
+    "firstName": "Noah",
+    "lastName": "Thompson",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "noah.thompson@enterprise.local",
+    "ssn": "444-64-8851",
+    "salary": 116500
+  },
+  {
+    "employeeId": "E1174",
+    "firstName": "Brian",
+    "lastName": "Thompson",
+    "department": "Sales",
+    "title": "Account Executive",
+    "email": "brian.thompson2@enterprise.local",
+    "ssn": "212-44-6956",
+    "salary": 137500
+  },
+  {
+    "employeeId": "E1175",
+    "firstName": "Iris",
+    "lastName": "Thomas",
+    "department": "Operations",
+    "title": "Business Operations Lead",
+    "email": "iris.thomas@enterprise.local",
+    "ssn": "427-16-3977",
+    "salary": 123000
+  },
+  {
+    "employeeId": "E1176",
+    "firstName": "Brian",
+    "lastName": "Nguyen",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "brian.nguyen@enterprise.local",
+    "ssn": "392-70-5590",
+    "salary": 114000
+  },
+  {
+    "employeeId": "E1177",
+    "firstName": "Tariq",
+    "lastName": "Kim",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "tariq.kim@enterprise.local",
+    "ssn": "603-56-6476",
+    "salary": 124500
+  },
+  {
+    "employeeId": "E1178",
+    "firstName": "Jamal",
+    "lastName": "Kim",
+    "department": "Engineering",
+    "title": "Software Engineer",
+    "email": "jamal.kim@enterprise.local",
+    "ssn": "888-26-6426",
+    "salary": 201000
+  },
+  {
+    "employeeId": "E1179",
+    "firstName": "Liam",
+    "lastName": "Thomas",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "liam.thomas@enterprise.local",
+    "ssn": "765-45-4441",
+    "salary": 120500
+  },
+  {
+    "employeeId": "E1180",
+    "firstName": "Sara",
+    "lastName": "Jackson",
+    "department": "Engineering",
+    "title": "Software Engineer",
+    "email": "sara.jackson@enterprise.local",
+    "ssn": "744-87-2971",
+    "salary": 93000
+  },
+  {
+    "employeeId": "E1181",
+    "firstName": "Brian",
+    "lastName": "Martinez",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "brian.martinez@enterprise.local",
+    "ssn": "821-67-2616",
+    "salary": 109000
+  },
+  {
+    "employeeId": "E1182",
+    "firstName": "Carla",
+    "lastName": "Garcia",
+    "department": "Marketing",
+    "title": "Brand Manager",
+    "email": "carla.garcia@enterprise.local",
+    "ssn": "842-70-4309",
+    "salary": 137000
+  },
+  {
+    "employeeId": "E1183",
+    "firstName": "Rafael",
+    "lastName": "Johnson",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "rafael.johnson@enterprise.local",
+    "ssn": "528-80-5137",
+    "salary": 109000
+  },
+  {
+    "employeeId": "E1184",
+    "firstName": "Rafael",
+    "lastName": "Thomas",
+    "department": "HR",
+    "title": "People Operations Manager",
+    "email": "rafael.thomas@enterprise.local",
+    "ssn": "546-18-8910",
+    "salary": 90000
+  },
+  {
+    "employeeId": "E1185",
+    "firstName": "Noah",
+    "lastName": "Thompson",
+    "department": "Marketing",
+    "title": "Marketing Specialist",
+    "email": "noah.thompson2@enterprise.local",
+    "ssn": "713-45-3112",
+    "salary": 102500
+  },
+  {
+    "employeeId": "E1186",
+    "firstName": "Jamal",
+    "lastName": "Patel",
+    "department": "Marketing",
+    "title": "Marketing Specialist",
+    "email": "jamal.patel2@enterprise.local",
+    "ssn": "858-60-9110",
+    "salary": 108500
+  },
+  {
+    "employeeId": "E1187",
+    "firstName": "Rafael",
+    "lastName": "Thompson",
+    "department": "Engineering",
+    "title": "Senior Software Engineer",
+    "email": "rafael.thompson@enterprise.local",
+    "ssn": "868-75-7293",
+    "salary": 172000
+  },
+  {
+    "employeeId": "E1188",
+    "firstName": "Rafael",
+    "lastName": "Jackson",
+    "department": "Sales",
+    "title": "Sales Development Rep",
+    "email": "rafael.jackson2@enterprise.local",
+    "ssn": "288-10-3621",
+    "salary": 112500
+  },
+  {
+    "employeeId": "E1189",
+    "firstName": "Sara",
+    "lastName": "Davis",
+    "department": "Marketing",
+    "title": "Marketing Specialist",
+    "email": "sara.davis3@enterprise.local",
+    "ssn": "566-74-9602",
+    "salary": 191000
+  },
+  {
+    "employeeId": "E1190",
+    "firstName": "Iris",
+    "lastName": "Wilson",
+    "department": "Finance",
+    "title": "Senior Accountant",
+    "email": "iris.wilson2@enterprise.local",
+    "ssn": "665-25-3803",
+    "salary": 128500
+  },
+  {
+    "employeeId": "E1191",
+    "firstName": "Hector",
+    "lastName": "Patel",
+    "department": "Marketing",
+    "title": "Content Strategist",
+    "email": "hector.patel@enterprise.local",
+    "ssn": "140-91-3427",
+    "salary": 134500
+  },
+  {
+    "employeeId": "E1192",
+    "firstName": "Iris",
+    "lastName": "Johnson",
+    "department": "HR",
+    "title": "HR Coordinator",
+    "email": "iris.johnson2@enterprise.local",
+    "ssn": "943-36-9758",
+    "salary": 123500
+  },
+  {
+    "employeeId": "E1193",
+    "firstName": "David",
+    "lastName": "Nguyen",
+    "department": "Operations",
+    "title": "Operations Manager",
+    "email": "david.nguyen@enterprise.local",
+    "ssn": "477-51-2363",
+    "salary": 214500
+  },
+  {
+    "employeeId": "E1194",
+    "firstName": "Rafael",
+    "lastName": "Lopez",
+    "department": "Operations",
+    "title": "Program Manager",
+    "email": "rafael.lopez3@enterprise.local",
+    "ssn": "726-47-6318",
+    "salary": 164500
+  },
+  {
+    "employeeId": "E1195",
+    "firstName": "Brian",
+    "lastName": "Nguyen",
+    "department": "HR",
+    "title": "HR Business Partner",
+    "email": "brian.nguyen2@enterprise.local",
+    "ssn": "280-42-1256",
+    "salary": 131500
+  },
+  {
+    "employeeId": "E1196",
+    "firstName": "Rafael",
+    "lastName": "Martinez",
+    "department": "Engineering",
+    "title": "DevOps Engineer",
+    "email": "rafael.martinez@enterprise.local",
+    "ssn": "990-90-4377",
+    "salary": 125500
+  },
+  {
+    "employeeId": "E1197",
+    "firstName": "Olivia",
+    "lastName": "Miller",
+    "department": "HR",
+    "title": "Recruiter",
+    "email": "olivia.miller2@enterprise.local",
+    "ssn": "695-90-7479",
+    "salary": 112000
+  },
+  {
+    "employeeId": "E1198",
+    "firstName": "Elena",
+    "lastName": "Harris",
+    "department": "Finance",
+    "title": "Controller",
+    "email": "elena.harris@enterprise.local",
+    "ssn": "251-71-2535",
+    "salary": 154000
+  },
+  {
+    "employeeId": "E1199",
+    "firstName": "Priya",
+    "lastName": "Brown",
+    "department": "Sales",
+    "title": "Sales Manager",
+    "email": "priya.brown@enterprise.local",
+    "ssn": "293-82-9036",
+    "salary": 105000
+  },
+  {
+    "employeeId": "E1200",
+    "firstName": "Farid",
+    "lastName": "Wilson",
+    "department": "Engineering",
+    "title": "Staff Engineer",
+    "email": "farid.wilson2@enterprise.local",
+    "ssn": "281-60-4077",
+    "salary": 101500
+  }
+]
