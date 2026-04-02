@@ -71,14 +71,14 @@ flowchart TD
 `.env` is ignored by Git. Create it from the tracked template:
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 cp .env.example .env
 ```
 
 1. Start the full stack:
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose up -d --build
 ```
 
@@ -220,14 +220,14 @@ docker exec kafka /opt/kafka/bin/kafka-console-consumer.sh \
 1. Regenerate the source employee dataset manually:
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot/mock-server
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot/mock-server
 python generate_employees.py --count 200 --start-id 1001 --output data/employees.json --run-once
 ```
 
 1. Continuous generation in Docker Compose:
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose logs --tail=100 employee-data-generator
 ```
 
@@ -236,14 +236,14 @@ docker compose logs --tail=100 employee-data-generator
 Set `EMPLOYEE_GENERATOR_INTERVAL_SECONDS` in `.env`, then restart the service.
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose up -d employee-data-generator
 ```
 
 1. Reseed by rebuilding the stack or rerunning the seeded services:
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose up -d --build
 ```
 
@@ -252,7 +252,7 @@ docker compose up -d --build
 ### Restart the producer only
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose up -d --build pgp-client
 ```
 
@@ -261,7 +261,7 @@ The `pgp-client` process starts the Spark streaming job automatically on startup
 ### Restart Kafka stack components
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose up -d --force-recreate kafka schema-registry kafka-ui pgp-client
 ```
 
@@ -320,14 +320,14 @@ Checks:
 1. Stop the full stack:
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose down
 ```
 
 1. Stop and remove volumes as well:
 
 ```bash
-cd /Users/pchen/mygithub/Pgp-RestApi-Spring-Boot
+cd {PROJECT_PATH}/Pgp-RestApi-Spring-Boot
 docker compose down -v
 ```
 
